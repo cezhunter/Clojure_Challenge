@@ -1,4 +1,4 @@
-My Solution to a hard level clojure problem from Exercism.
+My solution to a hard level Clojure problem from Exercism.
 
 # POV
 
