@@ -1,3 +1,5 @@
+My Solution to a hard level clojure problem from Exercism.
+
 # POV
 
 Reparent a graph on a selected node.
@@ -39,6 +41,3 @@ of view of one of the nodes.
 ## Source
 
 Adaptation of exercise from 4clojure [https://www.4clojure.com/](https://www.4clojure.com/)
-
-## Submitting Incomplete Solutions
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
